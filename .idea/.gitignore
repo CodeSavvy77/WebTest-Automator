@@ -1,0 +1,22 @@
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore build files
+target/
+*.class
+
+# Ignore drivers
+drivers/
+*.exe
+
+# Ignore reports
+reports/
+test-output/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
