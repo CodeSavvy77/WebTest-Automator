@@ -24,7 +24,7 @@ This project is a Maven-based Java application that uses **Selenium** for browse
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/retail-automation.git
+    git clone https://github.com/CodeSavvy77/retail-automation.git
     ```
 
 2. **Import the Project into Your IDE:**
